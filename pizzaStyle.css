@@ -1,0 +1,30 @@
+Body {
+	background-color: cyan;
+	color: Blue;
+	font-family: sans;
+	font-size: 20px;
+}
+
+H1 {
+	text-align:center;
+	border-style: solid;
+	border-color: maroon;
+
+}
+
+.meat {
+	color: maroon;
+}
+.veggie {
+	color: green;
+}
+.cheese {
+	color: yellow;
+}
+Button{
+	background-color: cyan;
+	color: blue;
+}
+#pageTitle{
+	background-color: pink;
+}
